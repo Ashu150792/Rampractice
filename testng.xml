@@ -1,0 +1,9 @@
+<suite name="softwaretestingmaterial">
+	<test name="testngTest">
+		<classes>
+			<class name="ram.practicenew.Sometest1" />
+			<class name="ram.practicenew.Sometest2" />
+			<class name="ram.practicenew.TestCase1" />
+		</classes>
+	</test>
+</suite>
